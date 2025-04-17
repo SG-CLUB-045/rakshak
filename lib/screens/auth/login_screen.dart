@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rakshak/globalScaffold/global_scaffold.dart';
+// import 'package:rakshak/globalScaffold/global_scaffold.dart';
+import 'package:rakshak/globalscaffold/global_scaffold.dart';
 import 'package:rakshak/screens/auth/register_screen.dart';
 import 'package:rakshak/screens/services/google_auth.dart';
 import 'package:rakshak/widgets/sign_in_button.dart';

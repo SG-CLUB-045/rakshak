@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "783751103329",
+    "project_id": "rakshak-ee8d8",
+    "storage_bucket": "rakshak-ee8d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783751103329:android:2bd5bb7d3137acae843b20",
+        "android_client_info": {
+          "package_name": "com.example.rakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783751103329-7d8jv89lb0ift7qktumc2v418krucqg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwNHof1RvCJZRwmwLm8EffU24GxbXbwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783751103329-7d8jv89lb0ift7qktumc2v418krucqg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783751103329-t51uihcj15kmt0pbis0qt0u7mr41108o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rakshak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
